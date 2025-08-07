@@ -19,7 +19,7 @@ const Hero = () => {
               Fale com um
               <span className="block text-secondary">Advogado Online</span>
               <span className="block">por uma Hora e</span>
-              <span className="block text-secondary">Resolva Suas Dúvidas</span>
+              <span className="block text-secondary">Tire Suas Dúvidas</span>
               <span className="block text-xl sm:text-2xl md:text-3xl font-normal mt-2 text-white/90">
                 Por apenas R$50
               </span>
