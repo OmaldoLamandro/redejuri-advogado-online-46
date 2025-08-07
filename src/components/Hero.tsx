@@ -16,8 +16,10 @@ const Hero = () => {
             </Badge>
             
             <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-4 sm:mb-6 leading-tight">
-              Converse com
-              <span className="block text-secondary">Advogado Certo</span>
+              Fale com um
+              <span className="block text-secondary">Advogado Online</span>
+              <span className="block">por uma Hora e</span>
+              <span className="block text-secondary">Resolva Suas Dúvidas</span>
               <span className="block text-xl sm:text-2xl md:text-3xl font-normal mt-2 text-white/90">
                 Por apenas R$50
               </span>
